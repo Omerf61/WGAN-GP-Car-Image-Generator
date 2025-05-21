@@ -1,0 +1,2 @@
+# WGAN-GP-Car-Image-Generator
+This project implements a Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) to generate realistic car images using the Stanford Cars dataset. The model is trained from scratch and demonstrates stable training dynamics and high-quality image synthesis over time. Key features include custom Generator and Critic architectures, gradient penalty implementation, and visual outputs illustrating model progression across epochs. Ideal for research or educational purposes in generative modeling and deep learning.
